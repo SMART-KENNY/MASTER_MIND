@@ -68,4 +68,7 @@
 - git push -u origin master  OR git push -u origin new-branch
 
 
+#### git pull with unrelated hint/updates
+- git pull origin learning-python --allow-unrelated-histories
+
 
